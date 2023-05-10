@@ -214,5 +214,5 @@ e88daf-5fbe-4b84-b8eb-a13e4497f398)
 ![Screenshot 2023-05-10 121832](https://github.com/Dharshan011/EX-05-Feature-Generation/assets/113497491/7ab7a2da-fdf1-42b0-aba5-9efa01461e49)
 
 
-##Result:
+## Result:
 Thus the Feature Generation and Feature Scaling process is applied to the given data set
